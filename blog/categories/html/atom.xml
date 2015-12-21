@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Html | My Octopress Blog]]></title>
+  <link href="http://lisllisl.github.io/blog/categories/html/atom.xml" rel="self"/>
+  <link href="http://lisllisl.github.io/"/>
+  <updated>2015-12-21T16:17:56+08:00</updated>
+  <id>http://lisllisl.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Lihuanblog]]></title>
+    <link href="http://lisllisl.github.io/blog/2015/12/21/blog/"/>
+    <updated>2015-12-21T14:34:44+08:00</updated>
+    <id>http://lisllisl.github.io/blog/2015/12/21/blog</id>
+    <content type="html"><![CDATA[<h1>你好blog</h1>
+
+<h2>我搭建的第一个blog</h2>
+
+<p><strong>加粗</strong></p>
+
+<p>·标亮·</p>
+
+<ul>
+<li>html
+
+<ul>
+<li>html1</li>
+</ul>
+</li>
+<li>css</li>
+<li>css</li>
+</ul>
+
+
+<blockquote><p>引用</p></blockquote>
+
+<p><a href="https://www.baidu.com/">百度</a></p>
+
+<p><img src="https://www.baidu.com/img/bd_logo1.png" alt="image" /></p>
+
+<p>Error processing input, expected syntax: {% video url/to/video [url/to/video] [url/to/video] [width height] [url/to/poster] %}</p>
+
+<pre><code>public class{
+    213123123123123
+}
+</code></pre>
+
+<p><figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>public class{
+</span><span class='line'>    213123123123123
+</span><span class='line'>}&lt;/p>
+</span><span class='line'>
+</span><span class='line'>&lt;p></span></code></pre></td></tr></table></div></figure></p>
+]]></content>
+  </entry>
+  
+</feed>
