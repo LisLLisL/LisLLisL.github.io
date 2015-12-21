@@ -1,0 +1,40 @@
+---
+layout: post
+title: "lihuanblog"
+date: 2015-12-21 14:34:44 +0800
+comments: true
+categories: [HTML,CSS]
+---
+
+# 你好blog
+## 我搭建的第一个blog
+
+**加粗**
+
+·标亮·
+
+- html
+	- html1
+- css
+- css
+
+>引用
+
+[百度](https://www.baidu.com/)
+
+![image](https://www.baidu.com/img/bd_logo1.png)
+
+{% video http://www.tudou.com/listplay/0b_Svy5eHLk/yD0X6ulfiJ4.html?resourceId=0_06_02_99 640 320 https://www.baidu.com/img/bd_logo1.png %}
+
+```
+public class{
+	qqqqqqqqqqq
+}
+
+```
+{% codeblock %}
+public class{
+	213123123123123
+}
+
+{% endcodeblock%}
